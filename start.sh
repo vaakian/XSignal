@@ -1,1 +1,1 @@
-pm2 start index.js --name signal-server
+pm2 start src/index.js --name signal-server
